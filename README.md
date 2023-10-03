@@ -1,11 +1,11 @@
 
 # Hi, I'm Pratik! 👋
 
-👩‍💻 I'm currently  computer science engineering student...
+👩‍💻 I'm Computer Engineering student...
 
-🧠 I'm currently learning web and application programming...
+🧠 I'm passionate on Machine Learning and Data Science
 
-⚡️ I like programming..
+⚡️ Like's programming..
 
 🙂 Fun fact...I also enjoy travelling...
 
